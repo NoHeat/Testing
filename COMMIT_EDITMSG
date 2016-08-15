@@ -1,0 +1,3 @@
+Added a main page with a button. Clicking on the button takes the user
+to a secondary page which has the inventory tracking, manual input and
+other features.
